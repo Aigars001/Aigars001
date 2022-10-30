@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Aigars
 ### Software Developer
-I am an ethuziastic, self-motivated and hard working person. Striving to utilize my knowledge and to learn new skills. Currently working with C#.
+I am an ethusiastic, self-motivated and hard working person. Striving to utilize my knowledge and to learn new skills. Currently working with C#.
 
 #### Skills: 
 C# / JS / HTML / CSS
